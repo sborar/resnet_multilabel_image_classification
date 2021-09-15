@@ -8,7 +8,7 @@ To train: python3 train.py
 ## Results
 Results are in the results folder for different experiments related to self supervision and presented in a jupyter notebook (results.ipynb)
 
-Report.pdf describes the objective of the study and the shares the consequent results.
+Report.pptx describes the objective of the study and the shares the consequent results.
 
 
 
